@@ -1,10 +1,12 @@
 # FrontLoppu
-Asenna riippuvuudet komennolla npm install.
-Projekti käynnistyy komennolla npm run dev -- --open.
+Asenna riippuvuudet komennolla npm install
 
-Ohjelma sisältää Opintokurssi listan ja Muistiinpano listan omilla sivuillaan.
-Kursseja voi lisätä ja poistaa ja kursseihin voi lisätä Muistiinpanoja Opintokurssi sivulla.
+Projekti käynnistyy ja avaa uuden välilehden selaimeen komennolla npm run dev -- --open
 
-Kurssiin voi kerralla lisätä monta muistiinpanoa.
+Ohjelma sisältää Opintojakso listan ja Muistiinpano listan omilla sivuillaan
 
-Muistiinpanoja voi valita näkymään tietyn kurssin mukaan ja muistiinpanoja voi poistaa Muistiinpano sivulla.
+Kursseja voi lisätä ja poistaa ja luotuihin kursseihin voi lisätä uusia muistiinpanoja
+
+Kurssiin voi kerralla lisätä monta muistiinpanoa ja samalla näkee mitä muistiinpanoja samassa sessiossa on jo tehty
+
+Muistiinpanoja voi valita näkymään tietyn kurssin mukaan ja muistiinpanoja voi poistaa muistiinpano sivulla.
